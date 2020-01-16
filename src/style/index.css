@@ -1,0 +1,9 @@
+body{
+    background: #f2f2f2;
+    background-image: url("../image/logo.png");
+    background-repeat: no-repeat;
+}
+/* 测试添加css前缀 */
+::placeholder {
+    color: orange;
+}
